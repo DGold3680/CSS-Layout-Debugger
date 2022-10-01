@@ -23,10 +23,11 @@ A simple outline of 1px solid red surrounds each element.
 ##BackgroundColor view(multicolor)
 -Each level of element nesting is giving a different color
 -The list of colors for each level of nesting is shown on the console
-##Usage
-Add package as a script tag at the bottom of your html document.
-For  use in development only.
 
 ##Overflow view 
 -A padding of 2em is added to the body so any overflow can be easily seen.
 -Use with either outline or backgroundColor views
+
+##Usage
+Add package as a script tag at the bottom of your html document.
+For  use in development only.
